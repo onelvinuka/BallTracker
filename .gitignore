@@ -9,7 +9,7 @@
 */CMakeCache.txt
 */Makefile
 */cmake_install.cmake
-.DS_Store
+.DS_Stores
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -124,11 +124,11 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
+# Spyder project setting
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope project setting
 .ropeproject
 
 # mkdocs documentation
