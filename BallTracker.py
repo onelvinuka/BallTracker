@@ -141,7 +141,7 @@ class Application(Frame):
             cv2.addWeighted(overlay, 0.5, frame, 1 - 0.5, 0, frame)
         return frame, points
 
-    @staticmethod
+    @staticmethod1
     def preview(buffer, frame_number, draw=True):
         frame_ = list(buffer.values())[frame_number].copy()
         n = frame_number + 1
